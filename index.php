@@ -13,7 +13,7 @@ $products = [
     'category' => $categories[0],
     'price' => 10999,
     'URL_pict' => 'img/lot-1.jpg',
-    'date_end' => '2020-07-09',
+    'date_end' => '2020-07-13',
     ],
     [
     'name' => "DC Ply Mens 2016/2017 Snowboard",
@@ -34,7 +34,7 @@ $products = [
     'category' => $categories[2],
     'price' => 10999,
     'URL_pict' => 'img/lot-4.jpg',
-    'date_end' => '2020-07-09',
+    'date_end' => '2020-07-13',
     ],
     [
     'name' => "Куртка для сноуборда DC Mutiny Charocal",
